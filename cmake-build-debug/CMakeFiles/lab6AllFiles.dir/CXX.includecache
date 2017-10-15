@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayLib.cpp
+iostream
+-
+ArrayLib.h
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayLib.h
+
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayLib.h
+string
+-
+
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayList.cpp
+ArrayList.h
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayList.h
+ArrayLib.h
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayLib.h
+
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayList.h
+stdexcept
+-
+string
+-
+
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/Lab6Tester.cpp
+iostream
+-
+ArrayList.h
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayList.h
+ArrayLib.h
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/ArrayLib.h
+

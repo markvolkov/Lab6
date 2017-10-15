@@ -1,0 +1,3 @@
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/markvolkov/Desktop/Comp 220/lab6AllFiles/cmake-build-debug/CMakeFiles/lab6AllFiles.dir
