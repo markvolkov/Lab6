@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61b327f5-9689-46e1-ad84-c6f6ddf4f461" name="Default" comment="" />
+    <list default="true" id="61b327f5-9689-46e1-ad84-c6f6ddf4f461" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab6AllFiles.dir/ArrayList.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab6AllFiles.dir/ArrayList.cpp.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/lab6AllFiles" afterPath="$PROJECT_DIR$/cmake-build-debug/lab6AllFiles" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayList.cpp" afterPath="$PROJECT_DIR$/ArrayList.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab6Tester.cpp" afterPath="$PROJECT_DIR$/Lab6Tester.cpp" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +27,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43690476">
+    <splitter split-orientation="horizontal" split-proportion="0.44761905">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
@@ -37,9 +43,11 @@
           <file leaf-file-name="ArrayList.h" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ArrayList.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-614">
-                  <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-                  <folding />
+                <state relative-caret-position="105">
+                  <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+                  <folding>
+                    <element signature="e#102#122#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -57,8 +65,8 @@
           <file leaf-file-name="ArrayLib.cpp" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ArrayLib.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="546">
-                  <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+                <state relative-caret-position="554">
+                  <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
                   <folding>
                     <element signature="e#0#19#0" expanded="true" />
                   </folding>
@@ -69,8 +77,8 @@
           <file leaf-file-name="ArrayList.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ArrayList.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1111">
-                  <caret line="109" column="19" lean-forward="false" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+                <state relative-caret-position="318">
+                  <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
                   <folding>
                     <element signature="e#46#68#0" expanded="true" />
                   </folding>
@@ -81,12 +89,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="Lab6Tester.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Lab6Tester.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2374">
-                  <caret line="111" column="4" lean-forward="true" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+                <state relative-caret-position="780">
+                  <caret line="190" column="1" lean-forward="true" selection-start-line="190" selection-start-column="1" selection-end-line="190" selection-end-column="1" />
                   <folding>
                     <element signature="e#0#19#0" expanded="true" />
                   </folding>
@@ -105,6 +113,9 @@
       <find>AddToEnd wrong remove</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -122,11 +133,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="4" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="983" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages />
@@ -189,24 +202,24 @@
       <updated>1507648297537</updated>
       <workItem from="1507648298698" duration="3454000" />
       <workItem from="1507818588381" duration="7878000" />
-      <workItem from="1508004008166" duration="4918000" />
+      <workItem from="1508004008166" duration="6949000" />
+      <workItem from="1508168570137" duration="2661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16250000" />
+    <option name="totallyTimeSpent" value="20942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="983" extended-state="0" />
-    <editor active="true" />
+    <frame x="4" y="23" width="1680" height="983" extended-state="1" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.122023806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52469814" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06805708" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -263,6 +276,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="e#102#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayLib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayLib.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab6Tester.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayList.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
@@ -305,7 +374,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#102#122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -359,7 +430,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
+          <folding>
+            <element signature="e#102#122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -367,14 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayList.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-614">
-          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -387,10 +452,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lab6Tester.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="190" column="1" lean-forward="true" selection-start-line="190" selection-start-column="1" selection-end-line="190" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#102#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayLib.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="554">
+          <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -399,20 +484,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ArrayList.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1111">
-          <caret line="109" column="19" lean-forward="false" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+        <state relative-caret-position="318">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
             <element signature="e#46#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab6Tester.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2374">
-          <caret line="111" column="4" lean-forward="true" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>

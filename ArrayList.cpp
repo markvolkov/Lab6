@@ -41,7 +41,7 @@ ArrayList &ArrayList::operator=(const ArrayList &arrayListToCopy) {
 
 }
 
-//Is this memory management correct?
+
 void ArrayList::doubleCapacity() {
     int* newArray = new int[currCapacity*2];
     for (int i = 0; i < currCapacity; i++) {
@@ -50,15 +50,19 @@ void ArrayList::doubleCapacity() {
     currCapacity*=2;
     delete[] array;
     array = newArray;
+    //I might need this line not sure though
     newArray = nullptr;
 }
 
+
+
 void ArrayList::insertAtEnd(int itemToAdd) {
-    if (currItemCount >= currCapacity) {
-        doubleCapacity();
-    }
-    array[currItemCount] = itemToAdd;
-    currItemCount++;
+//    if (currItemCount >= currCapacity) {
+//        doubleCapacity();
+//    }
+//    array[currItemCount] = itemToAdd;
+//    currItemCount++;
+    insertAt(itemToAdd, currItemCount);
 }
 
 void ArrayList::insertAtFront(int itemToAdd) {
@@ -66,7 +70,7 @@ void ArrayList::insertAtFront(int itemToAdd) {
 }
 
 void ArrayList::insertAt(int itemToAdd, int index) {
-    if (index >= currItemCount && currItemCount != 0) {
+    if (index > currItemCount || index < 0) {
         throw std::out_of_range("Index out of range.");
     }
     if (currItemCount >= currCapacity) {
@@ -94,7 +98,7 @@ int ArrayList::getValueAt(int index) {
 }
 
 int ArrayList::removeValueAt(int index) {
-    if (index > currItemCount-1  || index < 0) {
+    if (index > currItemCount-1 || index < 0) {
         throw std::out_of_range("Index out of range.");
     }
     int copyVal = array[index];
